@@ -1,0 +1,19 @@
+{
+    "productos": [
+   {
+            "id": 1,
+            "nombre": "Bucaneras",
+            "precio": 10000
+        },
+        {
+            "id": 2,
+            "nombre": "Plataformas",
+            "precio": "20000"
+        },
+        {
+            "id": 3,
+            "nombre": "Botas",
+            "precio": "200000"
+        }
+    ]
+}

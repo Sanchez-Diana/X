@@ -1,0 +1,15 @@
+{
+  "name": "2-api-rest-json",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^3.21.2"
+  }
+}
